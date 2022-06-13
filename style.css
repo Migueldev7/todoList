@@ -1,0 +1,12 @@
+.caixa {
+  border: 1px solid red;
+  background-color: bisque;
+  margin: auto;
+  text-align: center;
+  width: 20rem;
+  height: 15rem;
+}
+
+li {
+  list-style-type: none;
+}

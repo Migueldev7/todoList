@@ -1,9 +1,8 @@
 <?php
-
+//inclui banco de dados
 include('database.php');
 
 $task = $_POST['task'];
-
 
 $query = "INSERT INTO `task`(`name`) VALUES ('$task')";
 
